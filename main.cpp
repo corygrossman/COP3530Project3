@@ -11,4 +11,4 @@ int testINt;
 
 double testDouble;
 
-string a = "github stucks";
+string a = "github sucks";
