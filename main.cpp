@@ -9,3 +9,5 @@ int main() {
 float testFloat;
 
 int testINt;
+
+double testDouble
