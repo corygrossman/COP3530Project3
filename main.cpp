@@ -2,6 +2,7 @@
 
 int main() {
 //Test 
+    std::cout << "Hello";
     return 0;
 };
 
