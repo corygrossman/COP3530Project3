@@ -12,4 +12,4 @@ float testFloat;
 
 int testINt;
 
-double testDouble
+double testDouble;
