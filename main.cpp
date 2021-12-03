@@ -7,8 +7,5 @@ int main() {
 };
 
 float testFloat;
-<<<<<<< Updated upstream
-=======
 
 int testINt;
->>>>>>> Stashed changes
