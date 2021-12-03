@@ -10,3 +10,5 @@ float testFloat;
 int testINt;
 
 double testDouble;
+
+string a = "github stucks";
